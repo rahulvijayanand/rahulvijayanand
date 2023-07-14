@@ -1,5 +1,5 @@
 # 💫 About Me:
-React Native<br><br><br>Flutter
+Working with: React Native<br><br><br>Learning: Flutter
 
 
 # 💻 Tech Stack:
